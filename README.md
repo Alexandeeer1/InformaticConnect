@@ -1,1 +1,1 @@
-# Inform-ticaConnect
+# InformaticConnect
